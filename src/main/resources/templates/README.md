@@ -13,7 +13,7 @@ En esta práctica, vas a dar tus primeros pasos construyendo la estructura funda
 - `iniciar-sesion.html`: Esqueleto del formulario de autenticación de credenciales.
 - `registro.html`: Esqueleto para la creación de nuevas cuentas de usuario.
 - `error.html`: Estructura base para el reporte de errores del sitio.
-- `styles/styles.css`: Hoja de estilos inicial con variables de color y tipografía base.
+- `../../../../target/classes/static/styles/styles.css`: Hoja de estilos inicial con variables de color y tipografía base.
 - `imgs`: Recursos de imagen y logotipos del sitio.
 
 ## 🎯 Instrucciones de Trabajo (Práctica Guiada)
